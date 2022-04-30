@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Eduardo Mazzochi</h1>
+<h1 align="center">Olá 👋, me chamo Eduardo Mazzochi</h1>
 <h3 align="center">Engenheiro de Produção e Cientista de Dados</h3>
 
 - 🔭 Eu estudo e desenvolvo projetos de Machine Learning **Random Forest, Regressão Linear e Logística, Clusters, Redes Neurais...**
