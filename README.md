@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Eduardo Mazzochi</h1>
+<h1 align="center">Oi 👋, me chamo Eduardo Mazzochi</h1>
 <h3 align="center">Engenheiro de Produção e Cientista de Dados</h3>
 
 - 🔭 Eu estudo e desenvolvo projetos de Machine Learning **Random Forest, Regressão Linear e Logística, Clusters, Redes Neurais...**
@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-mazzochi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-mazzochi/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/eduardomazzochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/eduardomazzochi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/eduardo.mazzochi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eduardo.mazzochi.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/eduardo_mazzochi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eduardo_mazzochi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardo-mazzochi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-mazzochi/" height="30" width="40" /></a>
+<a href="https://kaggle.com//eduardomazzochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="/eduardomazzochi" height="30" width="40" /></a>
+<a href="https://fb.com/eduardo.mazzochi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardo.mazzochi.5/" height="30" width="40" /></a>
+<a href="https://instagram.com//eduardo_mazzochi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/eduardo_mazzochi/" height="30" width="40" /></a>
 <a href="https://medium.com/@eprmazzochi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eprmazzochi" height="30" width="40" /></a>
 </p>
 
